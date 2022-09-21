@@ -1,3 +1,5 @@
+**Day-1**
+
 Amstrong.cpp
 
 AscendingandDescending.cpp
@@ -27,6 +29,8 @@ perfect number.cpp
 reverse loop.cpp
 
 reverse order.cpp
+
+**Day-2**
 
 D-2 Area of Crst.cpp
 
