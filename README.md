@@ -32,9 +32,11 @@ reverse order.cpp
 
 **Day-2**
 
-D-2 Area of Crst.cpp
+D-2 Area of circle, rectangle, square and triangle.cpp
 
 D-2 Arithmatic.cpp
+
+D-2 Area of Crst.cpp
 
 D-2 Classemployee.cpp
 
