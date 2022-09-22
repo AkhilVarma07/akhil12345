@@ -72,7 +72,7 @@ D-3 Names of Student by Creating A Student Class.cpp
 
 D-3 Piggy Bank.cpp
 
-D-3 Prime Numbers.cpp
+D-3 PrimeNumbers.cpp
 
 D-3 Print Number.cpp
 
