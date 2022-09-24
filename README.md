@@ -92,15 +92,21 @@ D-3 Vowel Check.cpp
 
 D-4 Area of cirlce.cpp
 
-D-4 Mamal & Bluewhale.cpp
+D-4 Bank Balance
 
 D-4 Marks and sports hybrid inheritance.cpp
+
+D-4 Mamal & Bluewhale.cpp
+
+D-4 Mean, Mode, Median
 
 D-4 Single inheritance.cpp
 
 D-4 Student records.cpp
 
 D-4 Sum interger in array.cpp
+  
+  
 
 
 This programs is done in DevC++.
