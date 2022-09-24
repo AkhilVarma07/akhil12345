@@ -68,6 +68,8 @@ D-3 Area od Square & Rectangle.cpp
 
 D-3 Deposited.cpp
 
+D-3 Degreee.cpp
+
 D-3 Names of Student by Creating A Student Class.cpp
 
 D-3 Piggy Bank.cpp
@@ -81,6 +83,16 @@ D-3 Rectangle.cpp
 D-3 Student Clas.cpp
 
 D-3 Vowel Check.cpp
+
+**Day-4**
+
+D-4 Area of cirlce.cpp
+
+D-4 Single inheritance.cpp
+
+D-4 Student records.cpp
+
+D-4 Sum interger in array.cpp
 
 
 This programs is done in DevC++.
