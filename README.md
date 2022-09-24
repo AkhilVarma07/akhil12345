@@ -105,8 +105,22 @@ D-4 Single inheritance.cpp
 D-4 Student records.cpp
 
 D-4 Sum interger in array.cpp
-  
-  
+
+**Day-5**
+
+D-5 Account and Admin.cpp
+
+D-5 Bank simple Interest.cpp
+
+D-5 Choice for arthimatic Operation.cpp
+
+D-5 Composite Interval.cpp
+
+D-5 Count of friuts, Apple, Mango.cpp
+
+D-5 Integer and Character.cpp
+
+D-5 Inter and Funtion.cpp  
 
 
 This programs is done in DevC++.
